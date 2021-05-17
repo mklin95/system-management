@@ -17,3 +17,11 @@ Google "win10 usb 開機" / Read useful related pages
   ***確定後便開始安裝，並刪除USB內先前的檔案***
   
 ![image](https://user-images.githubusercontent.com/84267907/118396471-4552f380-b682-11eb-9927-f2bd3581fc9f.png)
+
+結果第一次失敗了
+
+後來第二次改了partition的大小就成功了
+
+***(138GB → 10GB)***
+
+可能第一次partition太大
