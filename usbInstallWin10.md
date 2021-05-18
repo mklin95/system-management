@@ -1,6 +1,6 @@
 # Install Windows 10 from USB booting disk
 
-Google "win10 usb 開機" / Read useful related pages
+## Google "win10 usb 開機" / Read useful related pages
 
 * 製作USB開機安裝disk: download "[MediaCreationTool20H2.exe](https://www.microsoft.com/zh-tw/software-download/windows10)"
 
@@ -25,3 +25,15 @@ Google "win10 usb 開機" / Read useful related pages
 ***(138GB → 10GB)***
 
 可能第一次partition太大
+
+## USB開機安裝WIN10
+
+* 同意授權後，選取"自訂"
+
+![image](https://user-images.githubusercontent.com/84267907/118667799-e37fbe80-b826-11eb-9c2a-ece4a0b49cde.png)
+
+* 選擇要安裝的磁碟機：partition system 的部分，並且格式化
+
+![image](https://user-images.githubusercontent.com/84267907/118668033-145ff380-b827-11eb-9ed3-c55c0de2178d.png)
+
+* 完成後即可開始進行設定
