@@ -35,4 +35,5 @@
 * 選擇要安裝的磁碟機：partition system 的部分，並且格式化
 
 ![image](https://user-images.githubusercontent.com/84267907/118668033-145ff380-b827-11eb-9ed3-c55c0de2178d.png)
+
 * 完成後即可開始進行設定
